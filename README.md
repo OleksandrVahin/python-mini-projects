@@ -5,3 +5,4 @@ Here are my mini projects from the course ''Python for beginners" from stepik.or
 2) Magic ball 8 - the game where you can ask the magic ball about everything, especially about your future 
 3) Password generator - a program where you can generate password which some opthions
 4) Caesar cipher - a program which can encrypt and decrypt caeser cipher in english an russian
+5) Hangman - a classic game, where you have to guess word in 6 tries or person will die
